@@ -196,6 +196,16 @@ nav {
   height: auto;
   border-radius: 8px;
 }
+.pixeltool-box {
+  font-weight: bold;
+  text-decoration: none;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+.pixeltool-box,
+a {
+  color: #007bff;
+}
 
 /* Info Cards */
 .info-cards {
